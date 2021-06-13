@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ae7da29.chunk.css",
+    "main.js": "/static/js/main.22a53cf6.chunk.js",
+    "main.js.map": "/static/js/main.22a53cf6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ec714614.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ec714614.js.map",
+    "static/css/2.b7e75c60.chunk.css": "/static/css/2.b7e75c60.chunk.css",
+    "static/js/2.b2571091.chunk.js": "/static/js/2.b2571091.chunk.js",
+    "static/js/2.b2571091.chunk.js.map": "/static/js/2.b2571091.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b7e75c60.chunk.css.map": "/static/css/2.b7e75c60.chunk.css.map",
+    "static/css/main.3ae7da29.chunk.css.map": "/static/css/main.3ae7da29.chunk.css.map",
+    "static/js/2.b2571091.chunk.js.LICENSE.txt": "/static/js/2.b2571091.chunk.js.LICENSE.txt",
+    "static/media/IconsLink.scss": "/static/media/youtube.275b261f.svg",
+    "static/media/index.scss": "/static/media/arrow.b443d528.svg",
+    "static/media/InfoCard.scss": "/static/media/heart-2.1bfeadf8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec714614.js",
+    "static/css/2.b7e75c60.chunk.css",
+    "static/js/2.b2571091.chunk.js",
+    "static/css/main.3ae7da29.chunk.css",
+    "static/js/main.22a53cf6.chunk.js"
+  ]
+}
